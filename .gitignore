@@ -1,0 +1,16 @@
+# Compiled Binary files
+*.bin
+*.elf
+*.slo
+*.lo
+*.o
+
+# Trash
+Thumbs.db
+*.bak
+*.lst
+
+# Temp Directories
+history/
+export/
+temp/

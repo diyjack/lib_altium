@@ -1,0 +1,15 @@
+	This is a partial credits file of people on project.
+
+	The fields are:
+
+		N: name;
+		E: Email;
+		D: Description;
+		W: Web address.
+
+----------
+
+N: Shyu Lee
+E: me@shyul.com
+D: Hardware engineer and project co-founder.
+W: http://shyul.com
