@@ -1,4 +1,5 @@
 lib_altium: Altium Design Library
+=================
 _________________
 
 I just figured out ways to improve the design experience with Altium and created my own design library.
