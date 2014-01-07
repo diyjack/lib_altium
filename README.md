@@ -1,4 +1,4 @@
-lib_altium: Altium library for hardware design
+lib_altium: Altium libraries
 ==========
 
 I just figured out ways to improve the design experience with Altium and created my own design library.

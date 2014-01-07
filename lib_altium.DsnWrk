@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=source\ic01_embedded\ic01_embedded.libpkg
+[Project2]
+ProjectPath=..\..\Projects\lib\altium\source\Lib_Basic\Basc_1_Passive\Basc_1_Passive.LibPkg
+[Project3]
+ProjectPath=source\basic01_resistors\basic01_resistors.libpkg
+[Project4]
+ProjectPath=source\ic02_analog\ic02_analog.libpkg
