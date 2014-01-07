@@ -1,12 +1,11 @@
-lib_altium: Altium libraries
-==========
+lib_altium: Altium Design Library
+_________________
 
 I just figured out ways to improve the design experience with Altium and created my own design library.
 
 source/ is the directory holding all files to generate the integrated libraries.
 
 Some explanations
-_________________
 1. Altium has three kinds of library files:
 1) Schematic / Capture Library: *.schlib
 2) PCB Library: *.pcblib
