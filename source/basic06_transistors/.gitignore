@@ -1,0 +1,12 @@
+# Compiling Messages
+*.htm
+
+# Trash
+Thumbs.db
+*.bak
+*.lst
+
+# Temp Directories
+history/
+export/
+temp/
