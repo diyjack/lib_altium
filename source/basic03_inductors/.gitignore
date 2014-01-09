@@ -1,5 +1,6 @@
 # Compiling Messages
 *.htm
+*.err
 
 # Trash
 Thumbs.db

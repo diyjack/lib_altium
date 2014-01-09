@@ -4,13 +4,17 @@
 *.slo
 *.lo
 *.o
+*.htm
 
 # Trash
 Thumbs.db
 *.bak
 *.lst
+*.tmp
+*.err
 
 # Temp Directories
 history/
 export/
 temp/
+__Previews/

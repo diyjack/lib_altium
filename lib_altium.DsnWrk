@@ -1,8 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=..\..\Projects\lib\altium\source\Lib_Basic\Basc_1_Passive\Basc_1_Passive.LibPkg
-[Project2]
 ProjectPath=source\basic01_resistors\basic01_resistors.libpkg
-[Project3]
+[Project2]
 ProjectPath=source\basic02_capacitors\basic02_capacitors.libpkg
+[Project3]
+ProjectPath=source\basic03_inductors\basic03_inductors.libpkg
