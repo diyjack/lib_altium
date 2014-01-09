@@ -6,3 +6,5 @@ ProjectPath=source\basic01_resistors\basic01_resistors.libpkg
 ProjectPath=source\basic02_capacitors\basic02_capacitors.libpkg
 [Project3]
 ProjectPath=source\basic03_inductors\basic03_inductors.libpkg
+[Project4]
+ProjectPath=source\basic04_EMI\basic04_EMI.libpkg
